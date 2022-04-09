@@ -5,7 +5,7 @@ letra_inexiste = '\033[40m'     # -> fundo preto
 letra_pos_errado = '\033[43m'   # -> fundo amarelo
 letra_pos_correta = '\033[42m'  # -> fundo verde
 
-termo = "COMUM"                 # -> palavra secreto a ser descoberta
+termo = "COMUM"                 # -> palavra secreta a ser descoberta
 game_over = False
 chances = 6
 
